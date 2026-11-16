@@ -1,0 +1,28 @@
+{
+  "wallpaperPath": "/home/huyle/Downloads/wallhaven-8g8q32_1920x1200.png",
+  "wallpaperMode": "fill",
+  "wallpaperDir": "/home/huyle/Downloads",
+  "barPosition": "top",
+  "barSize": 34,
+  "barOpacity": 0.97,
+  "popupOpacity": 0.98,
+  "barFloating": false,
+  "cornerRadius": 0,
+  "themeName": "nord",
+  "accentPreset": "lavender",
+  "showRamOnBar": true,
+  "showTrayOnBar": true,
+  "showMediaOnBar": true,
+  "lockUseSameWallpaper": true,
+  "lockWallpaperPath": "/home/huyle/.config/mango/wallpaper.jpg",
+  "lockShowClock": true,
+  "lock24Hour": true,
+  "lockDimOpacity": 0.45,
+  "fileBookmarks": [
+    {
+      "dir": "/home/huyle/Documents",
+      "icon": "󰉋",
+      "label": "Documents"
+    }
+  ]
+}
